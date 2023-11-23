@@ -1,4 +1,5 @@
 # Proyecto 1 - Computer graphics
+Jose Daniel Gomez Cabrera 21429
 
 ## Video
 https://youtu.be/yq4KOFV7-ck?feature=shared
