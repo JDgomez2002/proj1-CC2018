@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SR.dir/src/main.cpp.o -o SR  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
